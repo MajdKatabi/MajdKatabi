@@ -1,8 +1,9 @@
 ## Hi Everyone! 👋
 
-I'm a 3rd year Computer Science major at UCI intrested in robotics and full stack development! 🤖   
-I'm currently working on a website to help keep people consistent with working out by providing various substitute exercises for each muscle group. 💪   
-Check out my [LinkedIn](https://www.linkedin.com/in/majd-katabi-697836286/).  
+🤖 I'm a 3rd year Computer Science major at **UCI** interested in robotics and full stack development!     
+💪 I'm currently working on a website to help keep people consistent with working out by providing various substitute exercises for each muscle group.  
+
+To connect with me, check out my [LinkedIn](https://www.linkedin.com/in/majd-katabi-697836286/).  
 <!--
 **MajdKatabi/MajdKatabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
